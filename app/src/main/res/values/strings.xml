@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySelectableTextView</string>
+    <string name="text">肩背一匹布，手提一瓶醋，走了一里路，看见一只兔，卸下布，放下醋，去捉兔。跑了兔，丢了布，洒了醋</string>
+    <string name="copy">复制</string>
+    <string name="select_all">全选</string>
+    <string name="handerCopy">手动触发复制</string>
+    <string name="longpass_copy_tip">长按TextView进行选择复制</string>
+     :
+</resources>

@@ -1,5 +1,5 @@
 # 自由选择文字复制功能
-##前排：demo全面[参考](https://jaeger.itscoder.com/android/2016/11/21/selectable-text-helper.html)
+##前排：demo全面参考这位作者[传送门](https://jaeger.itscoder.com/android/2016/11/21/selectable-text-helper.html)
 
 ###  主要手动触发类似TextView长按出现的选择文字复制功能。
     主要的实现：
